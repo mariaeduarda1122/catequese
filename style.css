@@ -1,7 +1,12 @@
 header {
     background-color: burlywood;
-    color: white;
+    color: black;
     padding: 20px;
+    font-size: 27px;
     text-align: center;
-    
-    }
+}
+section{
+margin: 0 1.5cm;
+font-size: 25px;
+ color: black; 
+}
