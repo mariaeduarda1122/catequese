@@ -1,7 +1,7 @@
 header {
     background-color: burlywood;
     color: black;
-    padding: 20px;
+    padding: 30px;
     font-size: 25px;
     text-align: center;
 }
@@ -10,3 +10,11 @@ margin: 0 1.5cm;
 font-size: 25px;
  color: black; 
 }
+footer {
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 0 1.5cm;
+    font-size: 14px;
+    }
